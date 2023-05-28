@@ -1,5 +1,10 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  "CCURL": "https://www.collegeconfidential.com/",
+  "admissionResultsURL": "/admission-results/",
+  "regularDecisionResultsURL": "/regular-decision-results/",
+  "earlyAdmissionsURL": "/early-admissions/",
+  "transferAdmissionsURL": "/transfer-admissions-2022/",
+  "ivyDayResultsURL": "/ivy-day/",
+  "calStateAdmissionsResultsURL": "/cal-state-admissions-results/",
+  "ucResultsURL": "/uc-results-2022/"
 }
